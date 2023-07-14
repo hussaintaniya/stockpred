@@ -1,1 +1,1 @@
-Just using simple linear regression
+Just using simple LSTM
